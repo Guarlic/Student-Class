@@ -1,6 +1,6 @@
 #pragma once
-#ifndef __STDTCLShpp__
-#define __STDTCLShpp__
+#ifndef StudentClass_hpp
+#define StudentClass_hpp 
 
 class Student {
 public:
