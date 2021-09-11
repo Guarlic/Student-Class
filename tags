@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/jyjung/Desktop/Desktop/student/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Class	StudentClass.hpp	/^    int Class;$/;"	m	class:Student	typeref:typename:int
+Student	StudentClass.hpp	/^class Student {$/;"	c
+StudentClass_hpp	StudentClass.hpp	/^#define StudentClass_hpp /;"	d
+func_hpp	func.hpp	/^#define func_hpp$/;"	d
+gender	StudentClass.hpp	/^    char gender[10];$/;"	m	class:Student	typeref:typename:char[10]
+grade	StudentClass.hpp	/^    int grade;$/;"	m	class:Student	typeref:typename:int
+main	main.cpp	/^int main() {$/;"	f	typeref:typename:int
+name	StudentClass.hpp	/^    char name[30];$/;"	m	class:Student	typeref:typename:char[30]
+num	StudentClass.hpp	/^    int num;$/;"	m	class:Student	typeref:typename:int
+sci	func.hpp	/^void sci(char* txt, int* var) {$/;"	f	typeref:typename:void
+scs	func.hpp	/^void scs(char* txt, char* var) {$/;"	f	typeref:typename:void
